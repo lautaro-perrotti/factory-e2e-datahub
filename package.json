@@ -1,0 +1,9 @@
+{
+  "name": "factory-e2e-datahub",
+  "private": true,
+  "type": "module",
+  "packageManager": "npm@10.9.0",
+  "scripts": {
+    "test": "node --test"
+  }
+}
